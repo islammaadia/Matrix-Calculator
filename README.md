@@ -19,4 +19,4 @@ Make sure you have a C compiler installed (like `gcc`).
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/islammaadia/Matrix-Calculator.git
-   cd c-projet-
+   cd Matrix-Calculator
