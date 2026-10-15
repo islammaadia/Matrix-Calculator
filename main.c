@@ -283,7 +283,7 @@ int main(void) {
                     break;
                 }
 
-                if (choice == 1 && choice == 2)
+                if (choice == 1 || choice == 2)
                     result = calculate(a, b, choice);
                 else
                     result = multiply(a, b);
